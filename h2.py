@@ -1,3 +1,1 @@
-print("Hi guys")
-
-print("mi primer forck")
+print("Hi guys")´´
